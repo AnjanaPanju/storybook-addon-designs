@@ -218,7 +218,7 @@
     "account_capabilities": {
       "properties": {
         "card_issuing": {
-          "description": "The status of the card issuing capability of the account, or whether you can use Issuing to distribute funds on cards",
+          "description": "The status of the card issuing capability of the account, or whether you can use Issuing to distribute funds on cards. The status is a test status"
           "enum": [
             "active",
             "inactive",
